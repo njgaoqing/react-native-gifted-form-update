@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89f807ca-a085-4e68-8f15-231a0cfa522b" name="Default" comment="" />
+    <ignored path="react-native-gifted-form.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="react-native-gifted-form" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                <folding>
+                  <marker date="1500249504000" expanded="true" signature="715:8667" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="728:8665" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="749:8654" ph="&lt;GiftedForm/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="900:1021" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="1118:1337" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="1130:1327" ph="/*...*/" />
+                  <marker date="1500249504000" expanded="true" signature="1359:3840" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="1381:1621" ph="{&quot;title&quot;: 'Full name'...}" />
+                  <marker date="1500249504000" expanded="true" signature="1437:1609" ph="[...]" />
+                  <marker date="1500249504000" expanded="true" signature="1438:1608" ph="{&quot;validator&quot;: 'isLength'...}" />
+                  <marker date="1500249504000" expanded="true" signature="1643:2052" ph="{&quot;title&quot;: 'Username'...}" />
+                  <marker date="1500249504000" expanded="true" signature="1698:2040" ph="[...]" />
+                  <marker date="1500249504000" expanded="true" signature="1699:1869" ph="{&quot;validator&quot;: 'isLength'...}" />
+                  <marker date="1500249504000" expanded="true" signature="1870:2039" ph="{&quot;validator&quot;: 'matches'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2074:2313" ph="{&quot;title&quot;: 'Password'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2129:2301" ph="[...]" />
+                  <marker date="1500249504000" expanded="true" signature="2130:2300" ph="{&quot;validator&quot;: 'isLength'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2339:2552" ph="{&quot;title&quot;: 'Email address'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2399:2540" ph="[...]" />
+                  <marker date="1500249504000" expanded="true" signature="2400:2487" ph="{&quot;validator&quot;: 'isLength'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2488:2539" ph="{&quot;validator&quot;: 'isEmail'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2569:2810" ph="{&quot;title&quot;: 'Biography'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2625:2798" ph="[...]" />
+                  <marker date="1500249504000" expanded="true" signature="2626:2797" ph="{&quot;validator&quot;: 'isLength'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2830:3139" ph="{&quot;title&quot;: 'Gender'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2883:3127" ph="[...]" />
+                  <marker date="1500249504000" expanded="true" signature="2884:3126" ph="{&quot;message&quot;: '{TITLE} is required'...}" />
+                  <marker date="1500249504000" expanded="true" signature="2924:3065" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="2969:3020" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="3161:3613" ph="{&quot;title&quot;: 'Birthday'...}" />
+                  <marker date="1500249504000" expanded="true" signature="3216:3601" ph="[...]" />
+                  <marker date="1500249504000" expanded="true" signature="3217:3414" ph="{&quot;validator&quot;: 'isBefore'...}" />
+                  <marker date="1500249504000" expanded="true" signature="3416:3600" ph="{&quot;validator&quot;: 'isAfter'...}" />
+                  <marker date="1500249504000" expanded="true" signature="3634:3829" ph="{&quot;title&quot;: 'Country'...}" />
+                  <marker date="1500249504000" expanded="true" signature="3688:3817" ph="[...]" />
+                  <marker date="1500249504000" expanded="true" signature="3689:3816" ph="{&quot;validator&quot;: 'isLength'...}" />
+                  <marker date="1500249504000" expanded="true" signature="3898:4143" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="4153:4727" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="4431:4715" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="4463:4671" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="4576:4657" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="4737:5010" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="5020:5320" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="5370:5954" ph="&lt;GiftedForm.ModalWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="5578:5920" ph="&lt;GiftedForm.SelectWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="5964:6459" ph="&lt;GiftedForm.ModalWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="6209:6425" ph="&lt;GiftedForm.DatePickerIOSWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="6327:6411" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="6469:6859" ph="&lt;GiftedForm.ModalWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="6671:6825" ph="&lt;GiftedForm.SelectCountryWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="6869:7312" ph="&lt;GiftedForm.ModalWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="7124:7278" ph="&lt;GiftedForm.TextAreaWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="7358:8439" ph="&lt;GiftedForm.SubmitWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="7433:7537" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="7461:7525" ph="{&quot;backgroundColor&quot;: themes.mainColor...}" />
+                  <marker date="1500249504000" expanded="true" signature="7641:8427" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="7677:8415" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="7852:8401" ph="/*...*/" />
+                  <marker date="1500249504000" expanded="true" signature="8449:8573" ph="&lt;GiftedForm.NoticeWidget/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="9022:9148" ph="..." />
+                  <marker date="1500249504000" expanded="true" signature="9179:10059" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="9211:9341" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="9256:9337" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="9270:9331" ph="{&quot;fullName&quot;: 'Marco Polo'...}" />
+                  <marker date="1500249504000" expanded="true" signature="9371:9457" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="9470:10057" ph="{...}" />
+                  <marker date="1500249504000" expanded="true" signature="9588:10047" ph="&lt;GiftedForm/&gt;" />
+                  <marker date="1500249504000" expanded="true" signature="9772:9968" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GiftedForm.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiftedForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GiftedFormManager.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiftedFormManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/validator/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4800">
+              <caret line="320" column="16" lean-forward="false" selection-start-line="320" selection-start-column="16" selection-end-line="320" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="283" column="0" lean-forward="false" selection-start-line="283" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@exponent</find>
+      <find>View.propTypes</find>
+      <find>is</find>
+      <find>ism</find>
+      <find>ismou</find>
+      <find>ismounte</find>
+      <find>ismounted</find>
+      <find>N</find>
+      <find>Navigator</find>
+      <find>N avigator</find>
+      <find>Navigator.</find>
+      <find>Navigator.*</find>
+      <find>Navigator.*f</find>
+      <find>Navigator.*from</find>
+      <find>Navigator.*from 'react</find>
+      <find>Navigator.*from 'react-</find>
+      <find>Navigator.*from 'react-nat</find>
+      <find>Navigator.*from 'react-nati</find>
+      <find>Navigator.*from 'react-native</find>
+      <find>Navigator.*from 'react-native'</find>
+      <find>errors</find>
+      <find>\n</find>
+      <find>cooperka</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\),\n\)\;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../../cribspot/home-app/src/components</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/widgets/SwitchWidget.js" />
+        <option value="$PROJECT_DIR$/mixins/ContainerMixin.js" />
+        <option value="$PROJECT_DIR$/GiftedFormExample/app.js" />
+        <option value="$PROJECT_DIR$/GiftedFormExample/package.json" />
+        <option value="$PROJECT_DIR$/.npmignore" />
+        <option value="$PROJECT_DIR$/example/app.js" />
+        <option value="$PROJECT_DIR$/GiftedFormManager.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/example/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-gifted-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-gifted-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-gifted-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-gifted-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-gifted-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-gifted-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.4.0/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89f807ca-a085-4e68-8f15-231a0cfa522b" name="Default" comment="" />
+      <created>1476474700211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476474700211</updated>
+      <workItem from="1476474701441" duration="1206000" />
+      <workItem from="1478640582395" duration="1147000" />
+      <workItem from="1481223124590" duration="727000" />
+      <workItem from="1496520979474" duration="213000" />
+      <workItem from="1496521292068" duration="1331000" />
+      <workItem from="1498186816320" duration="5792000" />
+      <workItem from="1500249425987" duration="2042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12458000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="826" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17336152" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/widgets/GroupWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/HiddenWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/LoadingWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/ModalWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/NoticeWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/OptionWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/RowWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SelectCountryWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SelectWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SeparatorWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SubmitWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SwitchWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/TextAreaWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiftedForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/DatePickerIOSWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/TextInputWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/GroupWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/HiddenWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/LoadingWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/ModalWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/NoticeWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SelectCountryWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SeparatorWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/TextAreaWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/TextInputWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/ValidationErrorWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="47" column="3" lean-forward="false" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SwitchWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mixins/ContainerMixin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SubmitWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/SelectWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/RowWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/OptionWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/GooglePlacesWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/DatePickerIOSWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiftedFormExample/index.ios.js" />
+    <entry file="file://$PROJECT_DIR$/GiftedFormExample/index.android.js" />
+    <entry file="file://$PROJECT_DIR$/GiftedFormExample/package.json" />
+    <entry file="file://$PROJECT_DIR$/GiftedFormExample/app.js" />
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/node_modules/react-native-deprecated-custom-components/src/CustomComponents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/node_modules/react-native-gifted-form/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="68" column="741" lean-forward="false" selection-start-line="68" selection-start-column="741" selection-end-line="68" selection-end-column="741" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/node_modules/react-native-deprecated-custom-components/src/Navigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="159" column="18" lean-forward="false" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/ErrorsWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiftedForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/validator/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4800">
+          <caret line="320" column="16" lean-forward="false" selection-start-line="320" selection-start-column="16" selection-end-line="320" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiftedFormManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding>
+              <marker date="1500249504000" expanded="true" signature="715:8667" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="728:8665" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="749:8654" ph="&lt;GiftedForm/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="900:1021" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="1118:1337" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="1130:1327" ph="/*...*/" />
+              <marker date="1500249504000" expanded="true" signature="1359:3840" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="1381:1621" ph="{&quot;title&quot;: 'Full name'...}" />
+              <marker date="1500249504000" expanded="true" signature="1437:1609" ph="[...]" />
+              <marker date="1500249504000" expanded="true" signature="1438:1608" ph="{&quot;validator&quot;: 'isLength'...}" />
+              <marker date="1500249504000" expanded="true" signature="1643:2052" ph="{&quot;title&quot;: 'Username'...}" />
+              <marker date="1500249504000" expanded="true" signature="1698:2040" ph="[...]" />
+              <marker date="1500249504000" expanded="true" signature="1699:1869" ph="{&quot;validator&quot;: 'isLength'...}" />
+              <marker date="1500249504000" expanded="true" signature="1870:2039" ph="{&quot;validator&quot;: 'matches'...}" />
+              <marker date="1500249504000" expanded="true" signature="2074:2313" ph="{&quot;title&quot;: 'Password'...}" />
+              <marker date="1500249504000" expanded="true" signature="2129:2301" ph="[...]" />
+              <marker date="1500249504000" expanded="true" signature="2130:2300" ph="{&quot;validator&quot;: 'isLength'...}" />
+              <marker date="1500249504000" expanded="true" signature="2339:2552" ph="{&quot;title&quot;: 'Email address'...}" />
+              <marker date="1500249504000" expanded="true" signature="2399:2540" ph="[...]" />
+              <marker date="1500249504000" expanded="true" signature="2400:2487" ph="{&quot;validator&quot;: 'isLength'...}" />
+              <marker date="1500249504000" expanded="true" signature="2488:2539" ph="{&quot;validator&quot;: 'isEmail'...}" />
+              <marker date="1500249504000" expanded="true" signature="2569:2810" ph="{&quot;title&quot;: 'Biography'...}" />
+              <marker date="1500249504000" expanded="true" signature="2625:2798" ph="[...]" />
+              <marker date="1500249504000" expanded="true" signature="2626:2797" ph="{&quot;validator&quot;: 'isLength'...}" />
+              <marker date="1500249504000" expanded="true" signature="2830:3139" ph="{&quot;title&quot;: 'Gender'...}" />
+              <marker date="1500249504000" expanded="true" signature="2883:3127" ph="[...]" />
+              <marker date="1500249504000" expanded="true" signature="2884:3126" ph="{&quot;message&quot;: '{TITLE} is required'...}" />
+              <marker date="1500249504000" expanded="true" signature="2924:3065" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="2969:3020" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="3161:3613" ph="{&quot;title&quot;: 'Birthday'...}" />
+              <marker date="1500249504000" expanded="true" signature="3216:3601" ph="[...]" />
+              <marker date="1500249504000" expanded="true" signature="3217:3414" ph="{&quot;validator&quot;: 'isBefore'...}" />
+              <marker date="1500249504000" expanded="true" signature="3416:3600" ph="{&quot;validator&quot;: 'isAfter'...}" />
+              <marker date="1500249504000" expanded="true" signature="3634:3829" ph="{&quot;title&quot;: 'Country'...}" />
+              <marker date="1500249504000" expanded="true" signature="3688:3817" ph="[...]" />
+              <marker date="1500249504000" expanded="true" signature="3689:3816" ph="{&quot;validator&quot;: 'isLength'...}" />
+              <marker date="1500249504000" expanded="true" signature="3898:4143" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="4153:4727" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="4431:4715" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="4463:4671" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="4576:4657" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="4737:5010" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="5020:5320" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="5370:5954" ph="&lt;GiftedForm.ModalWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="5578:5920" ph="&lt;GiftedForm.SelectWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="5964:6459" ph="&lt;GiftedForm.ModalWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="6209:6425" ph="&lt;GiftedForm.DatePickerIOSWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="6327:6411" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="6469:6859" ph="&lt;GiftedForm.ModalWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="6671:6825" ph="&lt;GiftedForm.SelectCountryWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="6869:7312" ph="&lt;GiftedForm.ModalWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="7124:7278" ph="&lt;GiftedForm.TextAreaWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="7358:8439" ph="&lt;GiftedForm.SubmitWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="7433:7537" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="7461:7525" ph="{&quot;backgroundColor&quot;: themes.mainColor...}" />
+              <marker date="1500249504000" expanded="true" signature="7641:8427" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="7677:8415" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="7852:8401" ph="/*...*/" />
+              <marker date="1500249504000" expanded="true" signature="8449:8573" ph="&lt;GiftedForm.NoticeWidget/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="9022:9148" ph="..." />
+              <marker date="1500249504000" expanded="true" signature="9179:10059" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="9211:9341" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="9256:9337" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="9270:9331" ph="{&quot;fullName&quot;: 'Marco Polo'...}" />
+              <marker date="1500249504000" expanded="true" signature="9371:9457" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="9470:10057" ph="{...}" />
+              <marker date="1500249504000" expanded="true" signature="9588:10047" ph="&lt;GiftedForm/&gt;" />
+              <marker date="1500249504000" expanded="true" signature="9772:9968" ph="&lt;GiftedForm.TextInputWidget/&gt;" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="283" column="0" lean-forward="false" selection-start-line="283" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
